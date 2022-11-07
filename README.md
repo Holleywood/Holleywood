@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Holleywood
-- 👀 I’m interested in ... Cyber Security
+- 👀 I’m interested in ... Cyber Security and Software Engeneering
 - 🌱 I’m currently learning ... Security+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
